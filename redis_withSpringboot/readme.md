@@ -1,0 +1,2 @@
+这是一个关于使用redis+springboot的小例子，
+主要练习了如何在redis中存储对象。
